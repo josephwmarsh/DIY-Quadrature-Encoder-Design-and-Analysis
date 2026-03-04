@@ -1,6 +1,5 @@
 
 # DIY Quadrature Encoder and Motor Control System
-### Physical Signal Processing and Mechatronic Integration
 
 ## Project Overview
 This project involves the ground-up design and implementation of a 2-channel quadrature encoder used to track the rotational position and direction of a motor shaft. Unlike commercial optical encoders, this system utilizes a custom-patterned encoder disc and photoresistors (LDRs) to demonstrate the fundamental principles of quadrature encoding, signal phase shifts, and closed-loop control.
@@ -27,3 +26,6 @@ Because LDRs produce analog voltage fluctuations rather than clean digital pulse
 * **Functional Validation:** Successfully tracked motor position in real-time, allowing for precise angular control.
 * **Educational Scalability:** Designed the system using accessible materials (cardboard, basic electronics) to serve as a high-level demonstration of encoder physics for educational purposes.
 * **Technical Growth:** Gained deep experience in hardware-software synchronization and the importance of pre-project systems mapping.
+
+## Repository Contents
+* **Joseph_Marsh_Quadrature_Encoder_Design_and_Integration.pdf:** Technical report detailing the circuit architecture, encoder disc geometry, and lessons learned in mechatronic design.
