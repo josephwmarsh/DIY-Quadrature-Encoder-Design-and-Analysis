@@ -1,5 +1,6 @@
 
 # DIY Quadrature Encoder and Motor Control System
+Low-cost physical implementation of a 2-channel quadrature encoder using photoresistors (LDRs) and custom signal processing to control DC motor angular positioning.
 
 ## Project Overview
 This project involves the ground-up design and implementation of a 2-channel quadrature encoder used to track the rotational position and direction of a motor shaft. Unlike commercial optical encoders, this system utilizes a custom-patterned encoder disc and photoresistors (LDRs) to demonstrate the fundamental principles of quadrature encoding, signal phase shifts, and closed-loop control.
